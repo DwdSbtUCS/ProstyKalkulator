@@ -11,7 +11,6 @@ Prosty program konsolowy pobierający od użytkownika dwie liczby oraz wybraną 
 ├── csharp/
 │   ├── Program.cs
 │   └── ProstyKalkulator.csproj
-├── .gitignore
 └── README.md
 ```
 
