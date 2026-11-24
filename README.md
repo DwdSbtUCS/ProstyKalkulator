@@ -1,4 +1,4 @@
-# Prosty kalkulator dwóch liczb (Python & C#)
+# Prosty kalkulator dwóch liczb - Python oraz C#
 
 Prosty program konsolowy pobierający od użytkownika dwie liczby oraz wybraną operację arytmetyczną (`+`, `-`, `*` lub `/`), a następnie obliczający i wyświetlający wynik z użyciem instrukcji warunkowych `if` / `elif` (`else if`).
 
