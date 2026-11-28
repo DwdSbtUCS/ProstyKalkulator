@@ -23,7 +23,7 @@ python python/kalkulator.py
 ```
 
 ### C#
-Wymagany .NET 8.0 SDK (lub nowszy):
+Wymagany co najmniej .NET 8.0 SDK:
 ```bash
 dotnet run --project csharp/ProstyKalkulator.csproj
 ```
